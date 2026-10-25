@@ -1,0 +1,9 @@
+# Ignore Java backend, Python inference, and large build caches on Vercel
+hack1/
+public/assets/
+target/
+.venv/
+__pycache__/
+*.zip
+*.jar
+*.class

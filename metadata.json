@@ -1,0 +1,6 @@
+{
+  "name": "WardSentinel AI — Clinical Ambient Safety & Decision-Support",
+  "description": "Real-time ambient patient monitoring, fall-risk and bed-exit trajectory detection, autonomous nurse dispatch, and auditable privacy ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
